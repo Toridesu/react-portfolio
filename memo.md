@@ -38,4 +38,4 @@ npx shadcn-ui@latest add
 # 2025/04/06
 
 ## メモ
-- a
+- Hero完成。
