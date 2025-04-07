@@ -1,9 +1,3 @@
-写真
-プログラミング
-3D
-音響
-動画編集
-Web 制作
 
 ## Shadcn/ui のコマンド
 
@@ -14,6 +8,10 @@ npx shadcn-ui@latest add
 ## 不明点
 
 - どの場合型定義を設定していいか分からない
+
+## 総括メモ
+
+- やった事かいてもいい。supabaseでのDB作成、Vercelでのデプロイ、neonDBでの。テストとか。
 
 # 2025/04/01
 
@@ -39,3 +37,8 @@ npx shadcn-ui@latest add
 
 ## メモ
 - Hero完成。
+- About完成。
+
+# 2025/04/07
+
+- Portfolio完成。
