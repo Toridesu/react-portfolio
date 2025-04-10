@@ -5,7 +5,7 @@ import { defineConfig } from 'vite';
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: process.env.GITHUB_PAGES ? "https://github.com/Toridesu/react-portfolio" : "./",
+  base: process.env.GITHUB_PAGES ? "https://Toridesu.github.io/react-portfolio/" : "./",
   plugins: [react(), tailwindcss()],
   resolve: {
     alias: {
