@@ -37,8 +37,15 @@ jobs:
           cache: 'npm'
       - name: Install dependencies
         run: npm ci
+      - name: Debug environment
+        run: |
+          ls -la src/components/
+          cat src/App.tsx
+          npm list typescript
       - name: Build
-        run: npm run build
+        run: |
+          export GITHUB_PAGES=true
+          npm run build
       - name: Setup Pages
         uses: actions/configure-pages@v4
       - name: Upload artifact

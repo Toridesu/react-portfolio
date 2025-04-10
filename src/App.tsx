@@ -1,8 +1,8 @@
-import Header from './components/Header.tsx';
-import Footer from './components/Footer.tsx';
-import Hero from './components/Hero.tsx';
-import About from './components/About.tsx';
-import Portfolio from './components/Portfolio.tsx';
+import Header from './components/Header';
+import Footer from './components/Footer';
+import Hero from './components/Hero';
+import About from './components/About';
+import Portfolio from './components/Portfolio';
 
 function App() {
   return (
