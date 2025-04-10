@@ -1,4 +1,4 @@
-import { useToggleMobileMenu } from '@/hooks/useToggleMobileMenu';
+import { useToggleMobileMenu } from '../hooks/useToggleMobileMenu';
 
 interface NavLink {
   href: string;
