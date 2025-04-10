@@ -42,3 +42,6 @@ npx shadcn-ui@latest add
 # 2025/04/07
 
 - Portfolio完成。
+
+# 2025/04/10
+- githubデプロイ。
